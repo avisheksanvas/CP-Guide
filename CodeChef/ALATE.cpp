@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-  int t,jj,ii;
+  int t,jj,ii,k,l;
   scanf("%d",&t);
 
   vector <long> v[100001];
